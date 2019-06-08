@@ -1,35 +1,13 @@
 {
-  "team1": {
-    "score": 9
-  },
-  "team2": {
-    "score": 9
-  },
-  "team3": {
-    "score": 2
-  },
-  "team4": {
-    "score": 12
-  },
-  "team5": {
-    "score": 8
-  },
-  "team6": {
-    "score": 6
-  },
-  "team7": {
-    "score": 3
-  },
-  "team8": {
-    "score": 4
-  },
-  "team9": {
-    "score": 6
-  },
-  "team10": {
-    "score": 2
-  },
-  "team11": {
-    "score": 13
-  }
+  "team1_score": 9,
+  "team2_score": 9,
+  "team3_score": 2
+  "team4_score": 12,
+  "team5_score": 8,
+  "team6_score": 6,
+  "team7_score": 3,
+  "team8_score": 4,
+  "team9_score": 6,
+  "team10_score": 2,
+  "team11_score": 13
 }
